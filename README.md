@@ -1,4 +1,4 @@
 # Real-time-object-detection-for-self-driving-cars
-Source code will be uploaded after competition
+More fine-tuning going on, source code will be uploaded soon.
 
 demo video: https://www.youtube.com/watch?v=Z7j1hziLY4k
